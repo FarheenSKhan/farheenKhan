@@ -6,5 +6,5 @@ With expertise in Java, Spring Boot, and Mysql ,spring Security  , I focus on cr
 I’m always looking for new challenges and learning opportunities in Backend development. Feel free to explore my repositories and connect!
 
 💻 Tech Stack:
-Java Spring Boot Spring Security MySQL
+
 
